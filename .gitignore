@@ -1,0 +1,4 @@
+.venv/
+*.keras
+*.pth
+.ipynb_checkpoints/
